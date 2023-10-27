@@ -1,0 +1,29 @@
+.BgPropio{
+    background-color: rgb(48, 121, 121);
+}
+.BgPropio h5{
+    color: white;
+    margin: 20px;
+    display: flex;
+    align-items: center;
+}
+.TextNav{
+    color: white;
+}
+
+.navbar-nav .nav-link.active,
+.navbar-nav .nav-link.show {
+    color: white;
+}
+
+.nav-link {
+    color: white;
+}
+
+.nav-link:focus,
+.nav-link:hover {
+    color: white;
+}
+.navbar-toggler {
+    background-color: white;
+}
